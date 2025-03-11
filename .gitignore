@@ -1,0 +1,13 @@
+# Ignorar ambiente virtual
+ae_en/
+venv/
+
+# Ignorar arquivos temporários
+*.pyc
+__pycache__/
+
+# Ignorar datasets grandes (se aplicável)
+data/
+
+# Ignorar arquivos do sistema
+.DS_Store

@@ -1,0 +1,2 @@
+.\ae_en\Scripts\activate  # Windows
+source ae_en/bin/activate  # Linux/Mac
